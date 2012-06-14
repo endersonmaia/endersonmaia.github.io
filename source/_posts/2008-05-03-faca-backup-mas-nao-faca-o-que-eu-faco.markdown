@@ -10,6 +10,7 @@ categories:
 - Pessoal
 tags:
 - backup
+comments: true
 ---
 
 Ainda não coloquei o post sobre o terceiro dia do FISL por vários motivos, um deles é não ter feito backup. Não entendeu ? Deixa eu explicar melhor.

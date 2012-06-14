@@ -7,6 +7,7 @@ title: Rubinho fecha comunidades no Orkut (moda Cicarelli)
 wordpress_id: '54'
 categories:
 - Qualquer coisa
+comments: true
 ---
 
 Pois é, agora virou moda. Todo mundo que se achar injustiçado na internet pode contar com os ótimos juizes brasileiros (nem todos são assim, tudo bem), que tá tudo resolvido. Eles "tiram" rapidinho o conteúdo do ar, de uma forma ou de outra. Ou os provedores bloqueiam, ou os sites mesmo tiram do ar.

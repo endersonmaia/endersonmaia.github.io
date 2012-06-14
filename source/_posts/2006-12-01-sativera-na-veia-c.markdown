@@ -7,6 +7,7 @@ title: Sativera na veia C@#$%&*!!!
 wordpress_id: '45'
 categories:
 - Pra ouvir
+comments: true
 ---
 
 Na segunda-feira a minha banda gravou uma música, e ficou bem legal. Eu vi o quase resultado final hoje, ainda faltam umas coisas na mixagem, mas no geral tá muito bom pra primeira gravação.

@@ -7,6 +7,7 @@ title: Já mudou, e vai mudar mais!
 wordpress_id: '24'
 categories:
 - Blog
+comments: true
 ---
 
 Quem visita o blog percebeu que mudou um pouco a cara, não foi uma mudança planejada (a verdade é que foi acidental), mas até que ficou legal. De qualquer forma, mais mudanças virão, pois estou mudando de casa.

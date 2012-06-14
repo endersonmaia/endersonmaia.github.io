@@ -7,6 +7,7 @@ title: Morte do Saddam
 wordpress_id: '49'
 categories:
 - Qualquer coisa
+comments: true
 ---
 
 Se mataram o Saddam, deviam matar um monte de outros também, achei uma injustiça (não ter matado os outros (que fique bem claro (legal esse monte de parênteses ))).

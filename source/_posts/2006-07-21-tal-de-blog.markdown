@@ -7,6 +7,7 @@ title: Tal de blog.
 wordpress_id: '38'
 categories:
 - Blog
+comments: true
 ---
 
 Esse tal de blog, eu não consigo escrever nada de útil, então vou escrever qualquer coisa. Eu leio um montão de blogs, e não consigo escrever nada útil, mas parece que este artigo [aqui](http://www.contraditorium.com/2006/07/20/a-panela-existe-mas-a-tampa-esta-aberta/), me fez perceber que para escrever, tem que ser lido, e para ser lido tem que escrever.

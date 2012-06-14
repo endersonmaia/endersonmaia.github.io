@@ -7,6 +7,7 @@ title: Mudança quase completa!
 wordpress_id: '41'
 categories:
 - Blog
+comments: true
 ---
 
 É isso aê, estamos em novo endereço. Estou fazendo os ajustes finais, pra ter os feeds do FeedBurner apontando pra cá, ainda não configurei pra ter feeds completos aqui no WordPress, e nem o feed de comentários.

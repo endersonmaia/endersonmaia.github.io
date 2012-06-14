@@ -7,6 +7,7 @@ title: Quer usar Linux ? Saiba qual equipamento comprar!
 wordpress_id: '68'
 categories:
 - Tecnologia
+comments: true
 ---
 
 

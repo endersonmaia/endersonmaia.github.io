@@ -7,6 +7,7 @@ title: Quero feed completo!
 wordpress_id: '26'
 categories:
 - Blog
+comments: true
 ---
 
 [![](http://img169.imageshack.us/img169/115/feedcompleto468x602ja4.png)](http://img169.imageshack.us/img169/115/feedcompleto468x602ja4.png)

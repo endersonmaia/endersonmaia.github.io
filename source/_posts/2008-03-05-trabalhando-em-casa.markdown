@@ -12,6 +12,7 @@ tags:
 - home office
 - Produtividade
 - trabalho em casa
+comments: true
 ---
 
 Faz um tempo que estou trabalhando em casa durante parte da semana, e tenho lido alguns artigos no [Efetividade.net](http://efetividade.net) [sobre](http://www.efetividade.net/2007/05/22/trabalhar-em-casa-oportunidades/) o [assunto](http://www.efetividade.net/2008/02/14/escritorio-como-organizar/). Acontece que eu criei algumas regras para não esquecer que estamos trabalhando, e podemos acabar deixando o ambiente tão despojado, que perdemos produtividade, e concentração.

@@ -5,6 +5,7 @@ slug: virus-via-wi-fi
 status: publish
 title: Vírus via Wi-Fi
 wordpress_id: '133'
+comments: true
 ---
 
 Muito esperto o cara que configurou esta rede Wi-Fi com este nome. Quem se atreveria a connectar-se numa rede que tem vírus até nome.

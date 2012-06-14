@@ -5,6 +5,7 @@ slug: convites-para-o-google-wave
 status: publish
 title: Convites para o Google Wave
 wordpress_id: '103'
+comments: true
 ---
 
 Chegou hoje para mim, um _wave_ com 20 convites para o Google Wave, se você quer um, me compra um presente, que eu te mando um convite.

@@ -12,6 +12,7 @@ tags:
 - alagoas digital
 - mercado
 - ti
+comments: true
 ---
 
 Houve um evento esses dias aqui em Maceió, e gostei do que aconteceu. Evento grande, bastante gente, espero que o evento se repita anualmente.

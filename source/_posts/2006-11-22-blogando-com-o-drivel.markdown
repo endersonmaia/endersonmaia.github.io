@@ -7,6 +7,7 @@ title: Blogando com o Drivel
 wordpress_id: '43'
 categories:
 - Blog
+comments: true
 ---
 
 Li no [blog do Sérgio](http://blog do Sérgio) sobre o [Drivel](http://www.dropline.net/drivel/), e como mudei pro WordPress um dia desses, aproveitei e passei a usar o Drivel para testar alguns artigos.

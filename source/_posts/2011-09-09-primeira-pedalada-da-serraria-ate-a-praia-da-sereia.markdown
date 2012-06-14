@@ -7,6 +7,7 @@ title: Primeira pedalada da Serraria até a Praia da Sereia
 wordpress_id: '128'
 categories:
 - Pessoal
+comments: true
 ---
 
 Essa foi a minha primeira pedalada de verdade, a menos de 1Km do asfalto nos encontramos no meio do mato até culminar em belas paisagens como esta da foto.

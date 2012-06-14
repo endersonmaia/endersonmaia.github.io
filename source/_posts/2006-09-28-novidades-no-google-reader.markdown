@@ -7,6 +7,7 @@ title: Novidades no Google Reader
 wordpress_id: '30'
 categories:
 - Tecnologia
+comments: true
 ---
 
 Acabei de acessar o Google Reader aqui, e houve uma grande mudança. O site está

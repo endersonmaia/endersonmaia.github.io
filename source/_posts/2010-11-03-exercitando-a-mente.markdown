@@ -9,6 +9,7 @@ categories:
 - Pra ler
 tags:
 - memória
+comments: true
 ---
 
 Existem várias formas de exercitar a mente, seja lendo um livro, escrevendo um artigo, ou até assistindo um filme.

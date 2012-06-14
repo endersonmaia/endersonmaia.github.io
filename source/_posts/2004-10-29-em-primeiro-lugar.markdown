@@ -8,6 +8,7 @@ wordpress_id: '40'
 categories:
 - Blog
 - Pessoal
+comments: true
 ---
 
 .... não sei o que por aqui, então acho que cada dia vou por um resumo das

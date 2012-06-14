@@ -7,6 +7,7 @@ title: Gentoo 2006.1 instalando ...
 wordpress_id: '31'
 categories:
 - Coisa de nerd
+comments: true
 ---
 
 O período de testes do Ubuntu já acabou, :), gostei enquanto usei, mas

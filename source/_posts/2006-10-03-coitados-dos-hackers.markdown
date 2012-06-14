@@ -7,6 +7,7 @@ title: Coitados dos hackers ...
 wordpress_id: '29'
 categories:
 - Coisa de nerd
+comments: true
 ---
 
 ... sendo confundidos com criminosos.

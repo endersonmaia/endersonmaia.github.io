@@ -11,6 +11,7 @@ tags:
 - calote
 - e-calote
 - e-commerce
+comments: true
 ---
 
 Segundo a [INFO](http://info.abril.com.br/aberto/infonews/022008/25022008-25.shl),  a 1st Line INFO SHOP fechou as portas, e deu calote em todos os clientes, que pagaram e não receberam os produtos. O que este blog tem a ver com isso ?

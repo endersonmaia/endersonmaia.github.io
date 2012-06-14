@@ -7,6 +7,7 @@ title: Usando chains e RETURN com iptables
 wordpress_id: '36'
 categories:
 - Coisa de nerd
+comments: true
 ---
 
 Estava tentando uma forma de recuperar velhos artigos meus, e colocá-los aqui no Blogger, mas vi que muitos assuntos eram relacionados a notícias da época, ou coisas que não fariam sentido publicar agora. Acabei achando um que se salvou, um artigo técnico sobre iptables.

@@ -13,6 +13,7 @@ tags:
 - música
 - radiohead
 - show
+comments: true
 ---
 
 Lembrei que tinha um blog, e tenho bastante coisa pra falar, desde que [cometi um orkutcídio](http://enderson.blog.br/2008/08/31/cometi-orkuticidio/), parecia até que o orkuticídio tinha partido pro mundo real, mas não, estou aqui ainda.

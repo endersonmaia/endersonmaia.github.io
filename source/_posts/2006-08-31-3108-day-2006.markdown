@@ -7,6 +7,7 @@ title: 3108 Day 2006
 wordpress_id: '32'
 categories:
 - Blog
+comments: true
 ---
 
 Poxa, nada melhor que o Blog Day para dar uma atualizada no meu blog, eu tava meio parado, pois estava insatisfeito com algumas coisas que o Blogger não tinha. Estava tentando resolver uns problemas no template do blog, que não funcionava bem no Internet Explorer.

@@ -7,6 +7,7 @@ title: Vírus spammer ?
 wordpress_id: '50'
 categories:
 - Tecnologia
+comments: true
 ---
 
 Não sei o que é que tá acontecendo, mas acho que é algum vírus novo aê, tô com preguiça de pesquisar.

@@ -8,6 +8,7 @@ wordpress_id: '96'
 tags:
 - nerd
 - nerdprideday
+comments: true
 ---
 
 Nada melhor do que [esta notícia](http://info.abril.com.br/noticias/ciencia/nerds-sao-melhores-na-cama-diz-estudo-23052009-6.shl) da [Info](http://info.abril.com.br), para celebrar o [Dia do Orgulho Nerd](http://pt.wikipedia.org/wiki/Dia_do_Orgulho_Nerd) ([Nerd Pride Day](http://en.wikipedia.org/wiki/Nerd_Pride_Day)).  

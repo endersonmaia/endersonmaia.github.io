@@ -5,6 +5,7 @@ slug: o-que-lhe-motiva
 status: publish
 title: O que lhe motiva ?
 wordpress_id: '108'
+comments: true
 ---
 
 É científico. 

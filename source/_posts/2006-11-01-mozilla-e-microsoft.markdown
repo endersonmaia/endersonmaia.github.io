@@ -7,6 +7,7 @@ title: Mozilla e Microsoft
 wordpress_id: '27'
 categories:
 - Tecnologia
+comments: true
 ---
 
 Pois é, lendo o [blog do José Oliveira](http://joseoliveira.com/blog/2006/11/01/firefox-20-travando/), soube sobre alguns problemas do Mozilla Firefox 2.0 se comportando mal no Windows, e já havia lido também que houve uns problemas com o MAC OS X pelo [MeioBit](http://www.meiobit.com/internet/firefox_2_0_instavel).

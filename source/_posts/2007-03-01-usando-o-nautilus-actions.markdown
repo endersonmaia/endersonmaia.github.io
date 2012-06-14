@@ -8,6 +8,7 @@ wordpress_id: '60'
 categories:
 - Coisa de nerd
 - Tecnologia
+comments: true
 ---
 
 Duas dicas bem simples de como usar o Nautilus Actions.

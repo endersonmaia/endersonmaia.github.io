@@ -5,6 +5,7 @@ slug: apagao-foi-culpa-de-um-cacker
 status: publish
 title: Apagão foi culpa de um "cacker"
 wordpress_id: '104'
+comments: true
 ---
 
 Nem "[hacker](http://pt.wikipedia.org/wiki/Hacker)" nem "[cracker](http://pt.wikipedia.org/wiki/Cracker)" foi um "cacker".

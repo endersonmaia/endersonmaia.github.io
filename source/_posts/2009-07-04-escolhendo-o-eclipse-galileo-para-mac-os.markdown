@@ -12,6 +12,7 @@ tags:
 - galileo
 - mac
 - mac os x
+comments: true
 ---
 
 Eu uso o Mac OS X Leopard, e esses dias fui baixar a nova versão do Eclipse e me deparei com mais de uma opção de escolha, Carbon ou Cocoa, e ainda o Cocoa 64bits. Eu não sabia muito o que escolher, mas uma rápida busca no Google me levou a [este blog](http://blog.zvikico.com/2009/06/eclipse-galileo-for-mac-cocoa-or-carbon.html) que me ajudou na escolha.  

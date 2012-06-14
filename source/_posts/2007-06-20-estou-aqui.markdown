@@ -8,6 +8,7 @@ wordpress_id: '62'
 categories:
 - Blog
 - Pessoal
+comments: true
 ---
 
 Pois é galera, ultimamente tenho estado bastante ocupado, e sem tempo nem idéias para escrever por aqui, mas é sempre assim, de tempos em tempos isso voltar a funcionar.

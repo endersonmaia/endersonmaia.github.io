@@ -9,6 +9,7 @@ categories:
 - Pessoal
 - Pra ver
 - Tecnologia
+comments: true
 ---
 
 Estou me cadastrando em tudo quando é site, e o [YouTube](http://www.youtube.com/) é mais um deles. Eu tenho um vídeo de um amigo cantando uma música dele, que eu acho massa, daí acabei aproveitando a idéia de divulgar a música, e adicionei o seu vídeo no site.

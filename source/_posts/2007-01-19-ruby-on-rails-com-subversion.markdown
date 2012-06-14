@@ -8,6 +8,7 @@ wordpress_id: '55'
 categories:
 - Coisa de nerd
 - Tecnologia
+comments: true
 ---
 
 Estou usando o Rails em algumas coisas aqui no trabalho, pela simplicidade e produtividade, mas depois de muito código, e muita alteracão sem controle, decidi colocar tudo dentro do repositório subversion, que já existia, mas somente para alguns sripts gerenciais dos servidores.

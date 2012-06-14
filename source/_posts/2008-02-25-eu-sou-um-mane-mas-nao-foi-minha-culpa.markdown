@@ -12,6 +12,7 @@ tags:
 - fiz merda
 - shelfari
 - usabilidade
+comments: true
 ---
 
 Nossa, estou puto com o que eu fiz ao me cadastrar no [Shelfari](http://www.shelfari.com), simplesmente o botão de convidar outros usuários para participar não deixa claro que vai convidar toda sua lista de contatos do GMail, e então eu acabei enviando e-mail pra todo mundo, sem querer.

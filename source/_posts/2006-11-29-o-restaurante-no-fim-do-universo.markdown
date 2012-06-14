@@ -7,6 +7,7 @@ title: O Restaurante no Fim do Universo
 wordpress_id: '44'
 categories:
 - Pra ler
+comments: true
 ---
 
 ![O Restaurante no Fim do Universo](http://www.esextante.com.br/publique/media/restaurante_120.jpg)

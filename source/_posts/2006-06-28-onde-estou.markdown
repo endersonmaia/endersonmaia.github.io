@@ -7,6 +7,7 @@ title: Onde estou ?
 wordpress_id: '39'
 categories:
 - Blog
+comments: true
 ---
 
 Aff, milhares de tentativas de manter um blog, sem nenhum sucesso, mudando de lugar o tempo todo.

@@ -12,6 +12,7 @@ tags:
 - poa
 - porto alegre
 - software livre
+comments: true
 ---
 
 Cheguei hoje ás 14:30 em Porto Alegre, depois de uma viagem longa de Maceió com duas conexões (Salvador e Brasília) até Porto Alegre. Depois de passar o dia todo comendo barras de cereal e amendoin, pude almoçar comida de verdade no shopping aqui próximo ao hotel onde estou.

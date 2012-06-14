@@ -8,6 +8,7 @@ wordpress_id: '28'
 categories:
 - Pessoal
 - Tecnologia
+comments: true
 ---
 
 Estava meio desligado, mas vai aê a notícia.

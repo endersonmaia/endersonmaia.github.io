@@ -12,6 +12,7 @@ tags:
 - rails
 - ruby
 - ruby on rails
+comments: true
 ---
 
 Martin Fowler publicou um artigo sobre a experiência, nestes últimos anos, na utilização do Ruby em 41 projetos, alguns deles com mais de 40 pessoas envolvidas e mais de 2 anos de duração.

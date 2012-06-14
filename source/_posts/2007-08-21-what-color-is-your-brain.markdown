@@ -7,6 +7,7 @@ title: What color is your brain ?
 wordpress_id: '66'
 categories:
 - Blog
+comments: true
 ---
 
 

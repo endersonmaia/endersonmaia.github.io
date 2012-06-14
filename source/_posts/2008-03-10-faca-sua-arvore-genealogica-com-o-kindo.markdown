@@ -12,6 +12,7 @@ tags:
 - arvore genealogica
 - genealogia
 - kindo
+comments: true
 ---
 
 Descobri o [Kindo](http://www.kindo.com) através [deste](http://www.digitaldrops.com.br/drops/2008/02/kindo_recebe_investimento_dos.html) _post_ no [Digital Drops,](http://www.digitaldrops.com.br) e me inscrevi na hora. Sempre quis fazer a árvore genealógica da minha família, e já havia tentando uns programas, mas nada que fosse tão simples quanto o Kindo.

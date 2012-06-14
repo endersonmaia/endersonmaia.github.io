@@ -9,6 +9,7 @@ tags:
 - Blog
 - posterous
 - Tecnologia
+comments: true
 ---
 
 Este posterous é simplesmente simples demais. Como é que ninguém pensou nisto antes ? Como é que EU não pensei nisto antes ? É incrível como as idéias mais simples são sempre as mais legais.   

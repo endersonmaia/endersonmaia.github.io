@@ -14,6 +14,7 @@ tags:
 - nerd
 - tiras
 - tirinhas
+comments: true
 ---
 
 Quem não curte umas tirinhas ? Eu venho acompanhando as tirinhas do Nerdson, e tenho gostado muito. São tirinhas pra quem é nerd, e tá ligado em tecnologia e informática, e claro na literatura nerd também.

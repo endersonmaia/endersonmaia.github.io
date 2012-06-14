@@ -7,6 +7,7 @@ title: E o salário ó!
 wordpress_id: '47'
 categories:
 - Qualquer coisa
+comments: true
 ---
 
 Eu não costumo falar sobre política, por que não entendo muito bem. Mas essa aê foi foda. Aumentar o próprio salário em quase 100%, e deixar o mínimo no mínimo, é simplesmente um absurdo. Se eles podem aumentar o próprio salário, nós também deveriamos.

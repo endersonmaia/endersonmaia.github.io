@@ -7,6 +7,7 @@ title: CD demo de Paulo Fernandes
 wordpress_id: '42'
 categories:
 - Pra ouvir
+comments: true
 ---
 
 É isso aê galera, o Paulinho gravou semana passada seu primeiro CD demo com composições dele em parceria com o Alex. A gravação foi numa madrugada da sexta-feira pro sábado, depois de uma noite conturbada com troca de pneu, borracheiro e tudo mais.

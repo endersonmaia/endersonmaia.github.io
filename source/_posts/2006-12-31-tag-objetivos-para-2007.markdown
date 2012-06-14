@@ -8,6 +8,7 @@ wordpress_id: '51'
 categories:
 - Blog
 - Pessoal
+comments: true
 ---
 
 Pois é, continuando o meme do [Bruno Alves](http://brunoalves.blog.br/arquivo/geral/tag-objetivos-para-2007.html), e a convite do [Bardo](http://bardo.cyaneus.net/blog/tag-objetivos-para-2007), cá estou eu com meus objetivos para 2007 (eu havia prometido que não iria prometer nada pra 2007, mas vamos lá).

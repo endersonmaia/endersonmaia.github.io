@@ -5,6 +5,7 @@ slug: senado-federal-vergonha-nacional
 status: publish
 title: Senado Federal = Vergonha Nacional
 wordpress_id: '67'
+comments: true
 ---
 
 Seguindo a dica de protesto do Rodrigo Stulzer, escrevo este 'post'.

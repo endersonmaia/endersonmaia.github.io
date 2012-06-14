@@ -7,6 +7,7 @@ title: Balanço ... que venha 2007.
 wordpress_id: '48'
 categories:
 - Pessoal
+comments: true
 ---
 
 Que venha 2007.

@@ -13,6 +13,7 @@ tags:
 - ruby
 - subversion
 - svn
+comments: true
 ---
 
 Muito tem se falado sobre o Git, principalmente no mundo Ruby, basta reparar a quantidade de projetos Ruby nas hospedagens de repositórios git pela net.

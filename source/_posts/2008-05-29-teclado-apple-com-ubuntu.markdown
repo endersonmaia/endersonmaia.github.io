@@ -14,6 +14,7 @@ tags:
 - linux
 - teclado
 - ubuntu
+comments: true
 ---
 
 Quem usa o teclado apple com o Ubuntu, e fez a ultima atulização do kernel, deve ter percebido que em algum momento todas as teclas param de funcionar. Na verdade eu já usava, e vi que o teclado numérico não funcionava, mas como eu não utilizava mesmo, então não sentia falta.

@@ -15,6 +15,7 @@ tags:
 - sqlite
 - torrent
 - ubuntu
+comments: true
 ---
 
 Se você tem um PC velho, e não usa pra nada, que tão tal transformá-lo em um gerenciador de torrents ?

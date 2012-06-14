@@ -10,6 +10,7 @@ categories:
 tags:
 - fisl
 - software livre
+comments: true
 ---
 
 Primeiro dia, duas horas na fila de credenciamento, e não sei o que aconteceu, mas a minha era a mais lenta. Da próxima vez tenho que lembrar de me inscrever como ZEnderson, ou VEnderson, pois a fila de T a Z é sempre a mais rápida.

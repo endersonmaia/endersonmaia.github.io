@@ -7,6 +7,7 @@ title: Coding Dojo Alagoas
 wordpress_id: '116'
 categories:
 - Coisa de nerd
+comments: true
 ---
 
 Já aconteceu o [segundo](https://dojoalagoas.wordpress.com/2010/12/01/dojo-alagoas-fal/) Coding Dojo da galera do [Dojo Alagoas](http://dojoalagoas.wordpress.com) que aconteceu na FAL, o negócio foi bem animado espero que acontecam mais, pois acho que a galera de informática de Alagoas anda bem escondida.

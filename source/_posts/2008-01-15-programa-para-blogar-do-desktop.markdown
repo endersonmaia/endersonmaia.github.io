@@ -15,6 +15,7 @@ tags:
 - blogging
 - mac
 - os x
+comments: true
 ---
 
 Faz tempo que não apareço por aqui, estou querendo voltar a blogar, mas com mais facilidade. Sei que não é complicado abrir o browser, autenticar e clicar no "Write Post", mas é que cada vez eu fico mais preguiçoso, e prefiro abrir um programa local, digitar e apertar "Enter".

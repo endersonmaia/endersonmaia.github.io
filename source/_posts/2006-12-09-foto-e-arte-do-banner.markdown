@@ -7,6 +7,7 @@ title: Foto e arte do Banner
 wordpress_id: '46'
 categories:
 - Blog
+comments: true
 ---
 
 Galera, tá meio parado o negócio aqui, mas o motivo é trabalho D+, teirei férias pra trabalhar, daí já sabe como é.

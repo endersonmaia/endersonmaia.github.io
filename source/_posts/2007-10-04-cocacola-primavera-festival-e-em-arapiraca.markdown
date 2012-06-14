@@ -11,6 +11,7 @@ tags:
 - arapiraca
 - festival
 - música
+comments: true
 ---
 
 A minha cidade natal, Arapiraca, nunca sediou um festival deste porte, pelo menos não neste estilo musical. O [CocaCola Primavera Festival](http://www.cocacolaprimaverafestival.com.br) acontecerá nos dias 26, 27 e 28 de Outubro de 2007, e terá como principais atrações, as bandas Paralamas, Detonautas, CPM 22 e Cidade Negra.

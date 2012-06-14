@@ -7,6 +7,7 @@ title: Cumprindo objetivos ?
 wordpress_id: '63'
 categories:
 - Pessoal
+comments: true
 ---
 
 Lembram de um meme do ano passado, "[Tag: Objetivos para 2007](http://enderson.blog.br/2006/12/31/tag-objetivos-para-2007/)" ? Pois é, já passamos do meio do ano, e eu acho que não cumpri nada.

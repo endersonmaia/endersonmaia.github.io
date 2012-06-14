@@ -7,6 +7,7 @@ title: BlogBlogs! Eu tô!
 wordpress_id: '37'
 categories:
 - Blog
+comments: true
 ---
 
 Entrei na onda do [BlogBlogs](http://www.blogblogs.com.br), que dizem ser o [Technorati](http://www.blogblogs.com.br) brasileiro. Sinceramente, eu sou novo nessa onda de blogs, e nem sei do que se trata o [Technorati](http://www.blogblogs.com.br/), mas pelo que vi do [BlogBlogs](http://www.blogblogs.com.br/), deve ser legal.

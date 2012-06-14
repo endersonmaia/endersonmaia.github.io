@@ -7,6 +7,7 @@ title: Desciclopédia!
 wordpress_id: '33'
 categories:
 - Qualquer coisa
+comments: true
 ---
 
 Lembrei que havia visto meu irmão fuçando isso aqui, e realmente é muito divertido. Quando não tiver o que fazer, e quiser dar umas gargalhadas, aqui está o maior acervo de besteirol num lugar só. E o melhor de tudo, qualquer um pode contribuir para o aumento da "qualidade" do besteirol.

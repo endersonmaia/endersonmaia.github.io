@@ -11,6 +11,7 @@ categories:
 tags:
 - orkut
 - vida digital
+comments: true
 ---
 
 Pois é, cansei! perda de tempo. As pessoas pararam de me mandar e-mail para mandar _scrap_, mais um local para receber _spam_, não guentava mais.

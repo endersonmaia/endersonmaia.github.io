@@ -7,6 +7,7 @@ title: Querem controlar a Internet ...
 wordpress_id: '25'
 categories:
 - Tecnologia
+comments: true
 ---
 
 ... mas são todos descontrolados.

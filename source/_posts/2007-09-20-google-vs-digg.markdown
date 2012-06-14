@@ -8,6 +8,7 @@ wordpress_id: '69'
 categories:
 - Coisa de nerd
 - Tecnologia
+comments: true
 ---
 
 Eu recebi hoje um e-mail do [Digg](http://www.digg.com), informando sobre algumas [novidades](http://blog.digg.com/?p=94) (apesar de ter uma conta lá, nunca usei direito a ferramenta, já tenho bastante coisa pra ler nos "feeds" que assino). Houve uma grande alteração nos perfis dos usuários, que agora mais se parece com uma rede social, onde você põe sua fotos, acompanha as atividades de seus "amigos" e tudo que se tem direito.

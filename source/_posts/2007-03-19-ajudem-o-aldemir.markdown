@@ -8,6 +8,7 @@ wordpress_id: '61'
 categories:
 - Blog
 - Pessoal
+comments: true
 ---
 
 Não sei quantos leitores de São Paulo eu tenho, mas espero ajudar na causa.

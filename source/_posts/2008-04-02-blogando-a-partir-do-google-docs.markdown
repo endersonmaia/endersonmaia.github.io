@@ -8,6 +8,7 @@ wordpress_id: '81'
 categories:
 - Blog
 - Tecnologia
+comments: true
 ---
 
 Blogando a partir do [Google Docs](http://docs.google.com).  

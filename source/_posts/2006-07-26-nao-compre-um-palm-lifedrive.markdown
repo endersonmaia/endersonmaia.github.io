@@ -7,6 +7,7 @@ title: Não compre um Palm LifeDrive!
 wordpress_id: '34'
 categories:
 - Tecnologia
+comments: true
 ---
 
 É isso mesmo. Se for comprar um Palm, não compre o LifeDrive, pelo menos se você se chamar Enderson Maia, não compre. Quase tudo que eu compro pela internet, dá algum problema, nunca vi isso.

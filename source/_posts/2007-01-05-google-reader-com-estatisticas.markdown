@@ -8,6 +8,7 @@ wordpress_id: '53'
 categories:
 - Blog
 - Tecnologia
+comments: true
 ---
 
 Isso mesmo, agora dá pra saber quais as assinaturas que você mais lê por completo, as que você nunca leu, as que estão sem atualização desde 2005 (prontas pra deletar ?). Tudo isso com belos gráficos, que mostram o horário e os dias da semana em que você mais fica lendo as coisas.

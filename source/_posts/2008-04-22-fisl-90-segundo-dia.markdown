@@ -10,6 +10,7 @@ categories:
 tags:
 - fisl
 - software livre
+comments: true
 ---
 
 Deu pra perceber que eu não fiz uma boa cobertura do FISL, mas a rede Wi-Fi não ajudou, e nem o cansaço depois de um dia de palestras. Também nem enviei fotos para o flickr, mas agora já era
