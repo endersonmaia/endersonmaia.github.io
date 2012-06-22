@@ -16,5 +16,3 @@ Este posterous é simplesmente simples demais. Como é que ninguém pensou nisto
 Esse posterous simplesmente percebeu o óbvio para quem usa e-mail, é a maneira mais fácil de publicar conteúdo, imagina, qualquer dispositivo que conecta na rede hoje, tem a função de enviar e-mail, quer interface mais compatível? Interoperabilidade total. Parece que tem um bloqueio em nossas mentes, a gente cria blog, e manda e-mail todo dia, e ninguém nunca pensou nisto antes, pelo menos não desta forma prática. Sei que várias plataformas para blog podem ser configuradas para receber e-mails, e publicá-los, mas não como o posterous faz, aceitando integração de comentários, sem cadastro, simples assim.  
      
 Qual será a próxima grande idéia de alguém que eu vou fazer a mesma pergunta : Por que eu não pensei nisto antes ?
-
- [Posted via email](http://posterous.com)   from [Enderson's posterous](http://endersonmaia.posterous.com/por-que-nao-pensei-nisto-antes)  

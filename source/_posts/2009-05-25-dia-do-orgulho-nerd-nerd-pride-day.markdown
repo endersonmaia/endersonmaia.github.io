@@ -16,5 +16,3 @@ Nada melhor do que [esta notícia](http://info.abril.com.br/noticias/ciencia/ner
 Seja lá qual for sua nerdice, comemore hoje com altas doses de programação, maratonas de Star Wars, partidas intermináveis de WOW e tudo mais.  
   
 Se você não é nerd, então pode comemorar o [Dia da Toalha](http://pt.wikipedia.org/wiki/Dia_da_Toalha). ;)
-
- [Posted via email](http://posterous.com)   from [Enderson's posterous](http://endersonmaia.posterous.com/dia-do-orgulho-nerd-nerd-pride-day)  

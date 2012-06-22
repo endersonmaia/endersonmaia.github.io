@@ -13,5 +13,3 @@ Muito esperto o cara que configurou esta rede Wi-Fi com este nome. Quem se atrev
 [![Foto](http://posterous.com/getfile/files.posterous.com/endersonmaia/0TKEcoHUQG5QJLsXHAvY4y8EUrf1uoAOhqR795OIXtxLk2gYhMu2NXJyCW3S/foto.png.scaled.500.jpg)](http://posterous.com/getfile/files.posterous.com/endersonmaia/5qiuQlJCLyYBWhOeL8Gx1z723znMCoPiUTTdRa8qyBxmoj4kcmj4OQxsy8Sj/foto.png)
 
 Jogada de mestre!
-
- [Posted via email](http://posterous.com)   from [Enderson's posterous](http://enderson.blog.br/virus-via-wi-fi)  

@@ -16,8 +16,3 @@ O problema é que eu tinha me preparado psicologicamente para uma pedalada de 2h
 
 
 [![Foto0081](http://posterous.com/getfile/files.posterous.com/endersonmaia/FThxQ7WQAMj6ST9VWYzrR2LR0mAyANVlFaShgZvGx3xJFyLpEF5EbiztXcje/Foto0081.jpg.scaled.500.jpg)](http://posterous.com/getfile/files.posterous.com/endersonmaia/LykRr5XtzyRoFAZOy2RLjhVvTOiT3FlyPAXwoLQ4mqIzTALHKAJhP13jSFbn/Foto0081.jpg.scaled.1000.jpg)
-
-
-
-
-[Posted via email](http://posterous.com) from [Enderson's posterous](http://endersonmaia.posterous.com/primeira-pedalada-da-serraria-ate-a-praia-da)

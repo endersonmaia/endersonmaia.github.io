@@ -11,7 +11,3 @@ comments: true
 [![Spammer_analfabeto](http://getfile4.posterous.com/getfile/files.posterous.com/endersonmaia/UxWCau9YKbKxqAcGxFgKU1AeysWycCjfyqCer0phdOJINk6Qrwpf5WPnv55s/spammer_analfabeto.png.scaled.500.jpg)](http://getfile3.posterous.com/getfile/files.posterous.com/endersonmaia/1izag4SeOZ7D2GQRvydbjXYIpKkz5DsudgIer36eRdG4vUPD2FlxmnZQ17bx/spammer_analfabeto.png)
 
 Olha aí o resultado da inclusão digital. 
-
-Tenho dito, sem inclusão social e educação, inclusão digital dá merda!
-
- [Posted via email](http://posterous.com)   from [Enderson's posterous](http://enderson.blog.br/spammer-analfabeto)  

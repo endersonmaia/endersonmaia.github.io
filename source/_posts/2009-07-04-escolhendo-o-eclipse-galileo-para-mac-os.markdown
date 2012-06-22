@@ -20,5 +20,3 @@ Eu uso o Mac OS X Leopard, e esses dias fui baixar a nova versão do Eclipse e m
 Basicamente o Cocoa está substituindo o Carbon no desenvolvimento de aplicações para o Mac OS, e só o Cocoa suporta 64bits. O post indica a melhor opção como sendo o Galileo Cocoa 32bits, e justifica direitinho, vale a pena dar uma lida lá.  
      
 Fonte: [http://blog.zvikico.com/2009/06/eclipse-galileo-for-mac-cocoa-or-carbon.html](http://blog.zvikico.com/2009/06/eclipse-galileo-for-mac-cocoa-or-carbon.html)
-
- [Posted via email](http://posterous.com)   from [Enderson's posterous](http://endersonmaia.posterous.com/escolhendo-o-eclipse-galileo-para-mac-os)  

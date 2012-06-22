@@ -11,5 +11,3 @@ comments: true
 [![](http://posterous.com/getfile/files.posterous.com/endersonmaia/7ifzfryU9XOM2P246pydwBw9DdNCOnkZjjtNACxyktmDYBVXEC4VJFF8caFb/foto.jpg.scaled.500.jpg)](http://posterous.com/getfile/files.posterous.com/endersonmaia/CvAWsJEGrJEwYshN4WFBbWtHLPscYGPEwtxDTsoFSklN84g4QzmHNUrJxBRb/foto.jpg)
 
 Acabei de comprá-los. Agora é só se preparar.
-
- [Posted via email](http://posterous.com)   from [Enderson's posterous](http://endersonmaia.posterous.com/ingressos-comprados-swu-ai-vou-eu)  
