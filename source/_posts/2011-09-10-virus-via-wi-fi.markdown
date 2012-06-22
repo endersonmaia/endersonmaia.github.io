@@ -8,8 +8,8 @@ wordpress_id: '133'
 comments: true
 ---
 
-Muito esperto o cara que configurou esta rede Wi-Fi com este nome. Quem se atreveria a connectar-se numa rede que tem vírus até nome.
+Muito esperto o cara que configurou esta rede Wi-Fi com este nome. Quem se atreveria a conectar-se numa rede que tem vírus até nome.
 
-[![Foto](http://posterous.com/getfile/files.posterous.com/endersonmaia/0TKEcoHUQG5QJLsXHAvY4y8EUrf1uoAOhqR795OIXtxLk2gYhMu2NXJyCW3S/foto.png.scaled.500.jpg)](http://posterous.com/getfile/files.posterous.com/endersonmaia/5qiuQlJCLyYBWhOeL8Gx1z723znMCoPiUTTdRa8qyBxmoj4kcmj4OQxsy8Sj/foto.png)
+{% img /images/foto.png.scaled.500.jpg 'Vírus via Wi-Fi' %}
 
 Jogada de mestre!

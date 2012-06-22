@@ -8,6 +8,6 @@ wordpress_id: '134'
 comments: true
 ---
 
-[![Spammer_analfabeto](http://getfile4.posterous.com/getfile/files.posterous.com/endersonmaia/UxWCau9YKbKxqAcGxFgKU1AeysWycCjfyqCer0phdOJINk6Qrwpf5WPnv55s/spammer_analfabeto.png.scaled.500.jpg)](http://getfile3.posterous.com/getfile/files.posterous.com/endersonmaia/1izag4SeOZ7D2GQRvydbjXYIpKkz5DsudgIer36eRdG4vUPD2FlxmnZQ17bx/spammer_analfabeto.png)
+{% img /images/spammer_analfabeto.png.scaled.500.jpg 'Spammer Analfabeto' %}
 
 Olha aí o resultado da inclusão digital. 

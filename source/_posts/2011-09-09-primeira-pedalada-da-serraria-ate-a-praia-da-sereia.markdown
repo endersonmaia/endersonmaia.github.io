@@ -14,5 +14,4 @@ Essa foi a minha primeira pedalada de verdade, a menos de 1Km do asfalto nos enc
 
 O problema é que eu tinha me preparado psicologicamente para uma pedalada de 2h e no máximo 20Km, acabou que a galera se empolgou e fomos até o mirante da Praia da Sereia, e na volta pegamos um “atalho” que tornou o percurso mais cansativo.
 
-
-[![Foto0081](http://posterous.com/getfile/files.posterous.com/endersonmaia/FThxQ7WQAMj6ST9VWYzrR2LR0mAyANVlFaShgZvGx3xJFyLpEF5EbiztXcje/Foto0081.jpg.scaled.500.jpg)](http://posterous.com/getfile/files.posterous.com/endersonmaia/LykRr5XtzyRoFAZOy2RLjhVvTOiT3FlyPAXwoLQ4mqIzTALHKAJhP13jSFbn/Foto0081.jpg.scaled.1000.jpg)
+{% img /images/Foto0081.jpg.scaled.500.jpg 'Vista do mar, será Guaxuma ou Jacarecica ?' %}
