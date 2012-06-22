@@ -26,19 +26,19 @@ $ sudo apt-get install nautilus-actions
 Depois acesse a opção do menu "Sistema -> Preferências -> Configuração do Nautilus Actions".
 
 
-![](http://enderson.blog.br/wp-content/uploads/2007/03/na-01.png)
+{% img /images/na-01.png %}
 
 
 Depois adicione a ação como no exemplo acima, "Instalar no Palm" com as configurações exemplificadas nas figuras abaixo.
 
 
-![](http://enderson.blog.br/wp-content/uploads/2007/03/na-02.png)
+{% img /images/na-02.png %}
 
 
 E para que o menu somente apareça quando forem arquivos de instalação no Palm, basta configurar as condições na aba específica.
 
 
-![](http://enderson.blog.br/wp-content/uploads/2007/03/na-03.png)
+{% img /images/na-03.png %}
 
 
 
