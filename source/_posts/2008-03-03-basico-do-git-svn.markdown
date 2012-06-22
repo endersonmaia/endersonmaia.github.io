@@ -22,13 +22,13 @@ Acontece que simplesmente ele é muito bom. Eu continuo com meus repositorios su
 
 Segue abaixo os passos para baixar um repositorio subversion, e mantê-lo atualizado.
 
-`
-git-svn clone http://svn.example.com/project/trunk
-# altere seu programa a vontade, faca commits locais, brinque com branches
-git commit -m 'alteracao no meu repositorio git local'
-# depois que tiver ok, e quiser enviarpara o repositorio subversion
-# fique atualizado com o repositório remoto
-git-svn rebase
-# e depois faça um commit caso esteja tudo ok
-git-svn dcommit
-`
+``` bash Fluxo de trabalho com git-svn.
+$ git-svn clone http://svn.example.com/project/trunk
+$ # altere seu programa a vontade, faca commits locais, brinque com branches
+$ git commit -m 'alteracao no meu repositorio git local'
+$ # depois que tiver ok, e quiser enviarpara o repositorio subversion
+$ # fique atualizado com o repositório remoto
+$ git-svn rebase
+$ # e depois faça um commit caso esteja tudo ok
+$ git-svn dcommit
+```
