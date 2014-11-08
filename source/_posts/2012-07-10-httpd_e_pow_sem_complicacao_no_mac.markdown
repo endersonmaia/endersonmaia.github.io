@@ -41,7 +41,7 @@ Segue o comando para adicionar o arquivo na configuração do httpd e reiniciá-
 
 Segue o arquivo com a configuração.
 
-{% gist 2973292 httpd-vhosts.conf %}
+{% gist 2973292 dynamic-vhosts.conf %}
 
 ## Testando os dois ambientes
 
